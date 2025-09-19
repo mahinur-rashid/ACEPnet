@@ -1,0 +1,9 @@
+Flask
+torch
+numpy
+Pillow
+scikit-learn
+joblib
+rasterio
+opencv-python
+gunicorn

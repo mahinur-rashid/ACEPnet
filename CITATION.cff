@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ACEPnet"
+authors:
+  - family-names: Rashid
+    given-names: Mahinur
+  - family-names: Adnan
+    given-names: Kazi Iftekharul
+license: CC-BY-4.0
+repository-code: "https://github.com/mahinur-rashid/ACEPnet"
+date-released: "2025-06-28"
+version: "1.0.0"

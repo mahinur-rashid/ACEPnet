@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="result-container">
+    <h2>Prediction Results</h2>
+    
+    <div class="result-details">
+        <p><strong>Location Details:</strong></p>
+        <ul>
+            <li>Country: {{ country }}</li>
+            <li>Date: {{ date }}</li>
+            <li>Population: {{ population }}</li>
+            <li>Area: {{ area }} sq. km</li>
+        </ul>
+        
+        <div class="prediction">
+            <h3>Predicted Energy Consumption:</h3>
+            <p class="prediction-value">{{ prediction }} kWh per capita</p>
+        </div>
+    </div>
+    
+    <a href="{{ url_for('index') }}" class="button">Make Another Prediction</a>
+</div>
+{% endblock %}
