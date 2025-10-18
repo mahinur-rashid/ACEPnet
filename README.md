@@ -55,6 +55,18 @@ python app.py
 4. Enter population and area data
 5. Submit to get the energy consumption prediction
 
+## Application Screenshots
+
+### Input Interface
+The application provides a user-friendly interface for uploading satellite images and entering regional data:
+
+![Application Input Interface](Graphical_user_interface_of_the_proposed_model1.png)
+
+### Prediction Results
+After processing, the application displays detailed prediction results with location metadata:
+
+![Prediction Results Interface](Graphical_user_interface_of_the_proposed_model2.png)
+
 ## Image Requirements
 
 - Format: TIF
