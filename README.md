@@ -18,6 +18,13 @@ If you use this software, please cite:
 Mahinur Rashid, Kazi Iftekharul Adnan. "https://github.com/mahinur-rashid/ACEPnet". 2025.  
 See [CITATION.cff](./CITATION.cff) for citation metadata.
 
+## Model Architecture
+
+### Overview of ACEPnet model 
+The overview of the proposed model (ACEPnet) is as follows:
+
+![ACEPnet Architecture](Architecture_of_the_proposed_model_(ACEPnet).png)
+
 ## Requirements
 
 - Python 3.8 or higher
